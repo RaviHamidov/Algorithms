@@ -26,3 +26,5 @@
         - Type a function called includes. Function to search for one array and one number must accept value. If that value exists within the array, true otherwise it must return false
     - Unique 
         - Type a function called unique. The function must return an array of parameters to a new array that does not contain repeating elements
+    - InterSection 
+        - Write a function called intersection. The function should take two arrays as a parameter and return their intersection as a new array
