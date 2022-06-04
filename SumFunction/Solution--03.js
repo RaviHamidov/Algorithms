@@ -1,5 +1,5 @@
 /*================================================================
-Solution_Method-03 with "For in"
+Solution_Method-03 with "For in" 
 ================================================================*/
 function sumMethod_03(arr) {
     if (arr != undefined) {
