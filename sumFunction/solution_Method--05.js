@@ -1,5 +1,5 @@
 /*================================================================
-Solution_Method-05 with "While"
+Solution_Method-05 with "While" 
 ================================================================*/
 function sumMethod_05(arr) {
     if (arr != undefined) {
