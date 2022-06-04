@@ -9,7 +9,6 @@ function sumMethod_06(arr) {
             sum += arr[i];
             i++;
         } while (i < arr.length);
-
         return sum;
     } else
         return 0;
