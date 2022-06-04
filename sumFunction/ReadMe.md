@@ -1,4 +1,4 @@
-## Algorithm 
+## Algorithm's Instruction
 
 ```
 Type a function called sum. An array of function numbers 
