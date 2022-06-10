@@ -2,6 +2,7 @@
 ---------------------------Solution-------------------------------
 ================================================================*/
 function map(arr, myFunction) {
+    let total = [];
     for (let i = 0; i < arr.length; i++) {
         const result = myFunction(arr[i], i, arr);
         total.push(result);
