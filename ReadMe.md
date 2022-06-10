@@ -51,5 +51,4 @@
     - Type a function called union. The function should take two arrays i as 
     a parameter and must return their combination as a new array
 - Reverse 
-    - Type a function called reverse. The function must take an array i as a 
-    parameter and must return its inverse as a new array
+    - Type a function called reverse. The function must take an array i as a parameter and must return its inverse as a new array
