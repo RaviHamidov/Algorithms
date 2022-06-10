@@ -32,7 +32,7 @@
     additional elements. The first element of the array is x the second
     element y i denotes: [x, y].
 
-- 6.) PickOne
+- 6.) PickOne 
     - Type a function called pickOne. The function must accept an array
     of numbers and from within must return an arbitrary elements
 
