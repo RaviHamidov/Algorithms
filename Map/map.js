@@ -11,7 +11,7 @@ function map(arr, myFunction) {
 }
 
 console.log(map([1, 2, 3], function (x) {
-    return x * 5;
+    return x * 2;
 })); // Answer: [2, 4, 6]
 
 console.log(map([3, 6, 9], function (x) {
@@ -24,3 +24,7 @@ console.log(map([1, 2, 3], function (x) {
 
 console.log(map(['a', 'b', 'c', 'd'], x => null));
 // Answer: [null, null, null, null]
+
+/*================================================================
+--------------------------Problem Solved--------------------------
+================================================================*/
